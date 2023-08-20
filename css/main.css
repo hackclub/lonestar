@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300&display=swap');
+
+* {
+	font-family: 'Lexend', sans-serif;
+}
+
+.title {
+	font-family: 'Vina Sans', cursive;
+}
+
+.text-border {
+  -webkit-text-stroke-color: white;
+  -webkit-text-stroke-width: 0.015em; 
+}
+
+.banner {
+	position: fixed; 
+	top: 0; 
+	left: 0; 
+	border: 0; 
+	width: 256px; 
+	z-index: 999;
+}
+
+@keyframes scroll {
+  0% {
+    margin-left: 60vw;
+  }
+  50% {
+    margin-left: -60vw;
+  }
+  100% {
+    margin-left: 60vw;
+  }
+}
+
+.gallery {
+  display: flex;
+  animation: scroll 20s ease-in-out forwards infinite;
+}
+
+#icons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.icon-color {
+  fill: #F7F7FF;
+} 
+
+#footer {
+  display: flex;
+  justify-content: space-between;
+}
