@@ -3,7 +3,7 @@ import alpine from "../public/alpine.jpeg";
 import outernetWorkshop from "../public/outernetworkshop.png";
 import spark from "../public/spark.jpg";
 import angelhacks from "../public/angelhacks.jpg";
-import assemble from "../public/assemble.JPG";
+import assemble from "../public/assemble.jpg";
 import zephyr from "../public/zephyr.jpg";
 import horizon from "../public/horizon.png";
 import { ReactNode } from "react";
