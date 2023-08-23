@@ -3,7 +3,6 @@ import alpine from "../public/alpine.jpeg";
 import outernetWorkshop from "../public/outernetworkshop.png";
 import spark from "../public/spark.jpg";
 import angelhacks from "../public/angelhacks.jpg";
-import assemble from "../public/assemble.JPG";
 import zephyr from "../public/zephyr.jpg";
 import horizon from "../public/horizon.png";
 import { ReactNode } from "react";
@@ -51,12 +50,6 @@ export function Gallery() {
         alt="Hackers at Angelhacks 3.0 in Boston."
       >
         5/28/23 &bull; Angelhacks, MA
-      </Photo>
-      <Photo
-        src={assemble}
-        alt="Hackers at Assemble, Hack Club's 2022 summer event in SF."
-      >
-        8/6/22 &bull; Assemble, SF
       </Photo>
       <Photo
         src={zephyr}
