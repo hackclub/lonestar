@@ -6,7 +6,7 @@ import '../css/main.css'
 
 export default function Home() {
   return (
-    <div className="overflow-x-hidden bg-[url('../public/asteroid.gif')] bg-no-repeat bg-contain bg-top">
+    <div className="overflow-x-hidden bg-[url('../public/Asteroid1.gif')] bg-no-repeat bg-contain bg-top">
       <a href="https://hackclub.com/"><img className="banner" src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Hack Club"/></a>
       <main>
         <section className="py-32 text-center px-8">
