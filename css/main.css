@@ -23,6 +23,12 @@
 	z-index: 999;
 }
 
+.creds {
+  display: flex;
+  justify-content: start;
+  margin-top: 315px;
+}
+
 @keyframes scroll {
   0% {
     margin-left: 60vw;

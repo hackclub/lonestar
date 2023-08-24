@@ -39,7 +39,7 @@ export function Footer() {
         </a>
       </div>
       <div>
-        <p>Made with 💙 by the Hack Club team.</p>
+        <p>Made with ❤️ by the Hack Club team.</p>
       </div>
     </div>
   );
