@@ -15,7 +15,7 @@ export default function Home() {
           </h2>
           <h1 className="mt-4 text-6xl sm:text-8xl md:text-9xl text-border title text-[#05204A]">Lonestar</h1>
           <h3 className="mt-8 text-xl sm:text-3xl font-black text-[#F7F7FF]">
-            September 15th &bull; San Antonio, Texas
+            September 16th &bull; San Antonio, Texas
           </h3>
         </section>
         <section className="px-8 py-12 bg-[#C03221]">
