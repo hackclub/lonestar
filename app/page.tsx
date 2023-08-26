@@ -17,7 +17,6 @@ export default function Home() {
           <h3 className="mt-8 text-xl sm:text-3xl font-black text-[#F2EADF]">
             September 16th &bull; San Antonio, Texas
           </h3>
-          <h6 className="creds"></h6>
         </section>
         <section className="px-8 py-12 bg-[#D97373]">
           <div className="mx-auto max-w-2xl space-y-4 text-xl text-center">
