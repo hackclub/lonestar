@@ -36,15 +36,15 @@ export function FAQ() {
         <Question q="I have another question!">
           You can find us in the{" "}
           <a
-            className="font-bold text-[#05204A]"
-            href="https://hackclub.slack.com/archives/C05DMATE0E6"
+            className="font-bold text-[#F2BF80]"
+            href="https://app.slack.com/client/T0266FRGM/C05PJLWQ06S"
             target="_blank"
             rel="noreferrer"
           >
             #lonestar
           </a>{" "}
           channel on Slack, or email us at{" "}
-          <a className="font-bold text-[#05204A]" href="mailto:lonestar@hackclub.com">lonestar@hackclub.com</a>.
+          <a className="font-bold text-[#F2BF80]" href="mailto:lonestar@hackclub.com">lonestar@hackclub.com</a>.
         </Question>
       </div>
     </div>
