@@ -6,7 +6,7 @@ import '../css/main.css'
 
 export default function Home() {
   return (
-    <div className="font-light">
+    <div className="font-light overflow-x-hidden">
       <a href="https://hackclub.com/"><img className="banner" src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Hack Club"/></a>
       <main>
         <section className="py-32 text-center px-8 bg-[#00000077] relative">
