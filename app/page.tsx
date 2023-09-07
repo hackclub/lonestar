@@ -6,10 +6,10 @@ import '../css/main.css'
 
 export default function Home() {
   return (
-    <div className="overflow-x-hidden bg-[url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBhM21kejc4NTY3OXN2cW8wZmpzajVuOW93Z2J2em5wZTRvbXFjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KNUgQ8AbU49H9Dv9Gq/giphy-downsized-large.gif')] bg-no-repeat bg-contain bg-top">
+    <div>
       <a href="https://hackclub.com/"><img className="banner" src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Hack Club"/></a>
       <main>
-        <section className="py-32 text-center px-8 bg-[#00000077]">
+        <section className="py-32 text-center px-8 bg-[#00000077] relative">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-medium font-black text-white">
             Hack Club and the Girl Scouts of Southwest Texas present...
           </h2>
@@ -17,6 +17,11 @@ export default function Home() {
           <h3 className="mt-8 text-xl sm:text-3xl font-black text-white">
             September 16th &bull; San Antonio, Texas
           </h3>
+
+          <video className="absolute top-0 left-0 w-[100%] h-[100%] -z-10 object-cover" width='1024' height='576' autoPlay loop muted playsInline>
+            <source src='/video/video.webm' type='video/webm' />
+            <source src='/video/video.mp4' type='video/mp4' />
+          </video>
         </section>
         <section className="px-8 py-12 bg-[#eaa5a5] text-black">
           <div className="mx-auto max-w-2xl space-y-4 text-xl text-center">
