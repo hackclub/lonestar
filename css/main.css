@@ -10,8 +10,8 @@
 }
 
 .text-border {
-  -webkit-text-stroke-color: white;
-  -webkit-text-stroke-width: 0.015em; 
+  -webkit-text-stroke-color: #ffffff;
+  -webkit-text-stroke-width: 3px; 
 }
 
 .banner {
@@ -19,7 +19,7 @@
 	top: 0; 
 	left: 0; 
 	border: 0; 
-	width: 256px; 
+	width: 200px; 
 	z-index: 999;
 }
 
@@ -47,7 +47,7 @@
 }
 
 .icon-color {
-  fill: #F7F7FF;
+  fill: #000000;
 } 
 
 #footer {
