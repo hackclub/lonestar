@@ -60,7 +60,7 @@ export default function Home() {
             <h2 className="text-5xl title text-[#9d2e2e] mb-6">Location and Registration</h2>
             <p>The event is located at the Girl Scouts of Southwest Texas at <a className="text-[#9d2e2e] underline" href="https://goo.gl/maps/9SMtgDJ8ChbJrEB26" target="_blank">811 N Coker Loop, San Antonio, TX 78216</a>.</p>
             <p className="mt-3">If you are not registering through Girl Scouts, email <a className="text-[#9d2e2e] underline" href="mailto:lonestar@hackclub.com">lonestar@hackclub.com</a> to confirm your registration.</p>
-            <p className="mt-3 font-medium">See you at 5:00 PM on September 15th, 2023!</p>
+            <p className="mt-3 font-medium">See you at 8:00 AM on September 16th, 2023!</p>
           </div>
         </section>
         <section className="pt-10 px-12 pb-8 bg-[#eaa5a5] text-black text-lg">
