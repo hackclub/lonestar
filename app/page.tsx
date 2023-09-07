@@ -6,15 +6,15 @@ import '../css/main.css'
 
 export default function Home() {
   return (
-    <div>
+    <div className="font-light">
       <a href="https://hackclub.com/"><img className="banner" src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Hack Club"/></a>
       <main>
         <section className="py-32 text-center px-8 bg-[#00000077] relative">
-          <h2 className="text-2xl sm:text-3xl md:text-4xl font-medium font-black text-white">
+          <h2 className="text-2xl sm:text-3xl md:text-4xl text-white">
             Hack Club and the Girl Scouts of Southwest Texas present...
           </h2>
           <h1 className="mt-4 text-6xl sm:text-8xl md:text-9xl text-border title text-[#f2b974]">Lonestar</h1>
-          <h3 className="mt-8 text-xl sm:text-3xl font-black text-white">
+          <h3 className="mt-8 text-xl sm:text-3xl text-white">
             September 16th &bull; San Antonio, Texas
           </h3>
 
@@ -56,8 +56,14 @@ export default function Home() {
         <section className="px-8 py-12 text-center bg-[#eaa5a5] text-black">
           <h2 className="text-5xl title text-[#9d2e2e] mb-6">Questions? We&apos;ve got you covered.</h2>
           <FAQ />
+          <div className="mt-20 text-xl">
+            <h2 className="text-5xl title text-[#9d2e2e] mb-6">Location and Registration</h2>
+            <p>The event is located at the Girl Scouts of Southwest Texas at <a className="text-[#9d2e2e] underline" href="https://goo.gl/maps/9SMtgDJ8ChbJrEB26" target="_blank">811 N Coker Loop, San Antonio, TX 78216</a>.</p>
+            <p className="mt-3">If you are not registering through Girl Scouts, email <a className="text-[#9d2e2e] underline" href="mailto:lonestar@hackclub.com">lonestar@hackclub.com</a> to confirm your registration.</p>
+            <p className="mt-3 font-medium">See you at 5:00 PM on September 15th, 2023!</p>
+          </div>
         </section>
-        <section className="px-12 pb-8 bg-[#eaa5a5] text-black text-lg">
+        <section className="pt-10 px-12 pb-8 bg-[#eaa5a5] text-black text-lg">
           <Footer />
         </section>
       </main>

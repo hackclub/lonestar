@@ -3,7 +3,7 @@ import { ReactNode } from "react";
 function Question({ q, children }: { q: string; children: ReactNode }) {
   return (
     <div className="bg-[#F7F7FF] p-6 rounded border shadow-lg">
-      <h3 className="text-xl font-bold mb-2">{q}</h3>
+      <h3 className="text-xl font-medium mb-2">{q}</h3>
       <p className="text-lg">{children}</p>
     </div>
   );
@@ -36,13 +36,13 @@ export function FAQ() {
         <Question q="I have another question!">
           You can find us in the #lonestar channel on{" "}
           <a
-            className="font-bold text-[#e3a254] underline"
+            className="text-[#e3a254] underline"
             href="https://hackclub.com/slack/?event=Lonestar"
             target="_blank"
             rel="noreferrer"
           >Slack</a>,
           or email us at{" "}
-          <a className="font-bold text-[#e3a254] underline" href="mailto:lonestar@hackclub.com">lonestar@hackclub.com</a>.
+          <a className="text-[#e3a254] underline" href="mailto:lonestar@hackclub.com">lonestar@hackclub.com</a>.
         </Question>
       </div>
     </div>
