@@ -32,7 +32,7 @@ We started Lonestar with $2,500, and finished off with $984.44 in HCB.
 |Travel, Gas, and Lodging 🏠 | $1,083.99 |
 |Dining Expenses 🍽️ | $156.32 |
 
-High school hackathon budgets can range anywhere from \$500 to \$75,000. Every expense made for Horizon has been open sourced [here](https://hcb.hackclub.com/lonestar) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
+High school hackathon budgets can range anywhere from \$500 to \$75,000. Every expense made for LoneStar has been open sourced [here](https://hcb.hackclub.com/lonestar) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
 
 ## 🗽 In Years Past
 
