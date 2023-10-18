@@ -23,7 +23,7 @@ We came into this weekend with 2 goals:
 2. To grow Hack Club’s community so it is inclusive and accessible to teenagers of all backgrounds. We made active outreach to under-represented, less-advantaged young people, including girls and girls of color, who don’t have computer science programs or professional mentors in their community.
 
 ## 💸 The Budget
-[Open-sourced Transactions](https://bank.hackclub.com/horizon)
+[Open-sourced Transactions](https://hcb.hackclub.com/lonestar)
 
 We started Lonestar with $2,500, and finished off with $984.44 in HCB.
 | Item | Amount ($) |
