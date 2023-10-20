@@ -39,7 +39,7 @@ We started Lonestar with $2,500, and finished off with $984.44 in HCB. Our bigge
 ## 💙 The Impact
 By the end of the event we can confidently say that every one of the 20 Girl Scouts who attended took home with them the passion of programming Aileen and Zoya came with! Parents of the Girl Scouts shared with us that they were happy this event helped the girls find a new hobby that helps them learn and grow. 
 
-✨We think LoneStar achieved exactly what it set out too and our so excited to come back to Texas with a bigger event next year✨
+✨We think LoneStar achieved exactly what it set out to and our so excited to come back to Texas with a bigger event next year!✨
 
 High school hackathon budgets can range anywhere from \$500 to \$75,000. Every expense made for LoneStar has been open sourced [here](https://hcb.hackclub.com/lonestar) through Hack Club Bank
 
