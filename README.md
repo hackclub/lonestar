@@ -3,12 +3,12 @@
 
 “I had a lot of fun with Hack Club. In just the day that I worked, I learned the basics of making a website and I really loved working with y’all. This helped me on how I want to open people’s eyes on global warming.”  — Addie, a 7th grader from San Antonio
 
-Lonestar was an 8-hour all-female/nonbinary hackathon from September 15th-17th! As a sister-event to Horizon, Alpine, and Spark, Lonestar was held between Hack Club and Girl Scouts of Southwest Texas with 30 participants and organizers, inspiring middle and high-schoolers to write their first lines of code ✨ On September 16th, we held two workshops: Intro to Web-Dev and Hardware w/Tinkercad. At the end of the day, we celebrated our day of learning with an awards ceremony, where every scout left with a prize of their own: a confidence to pursue STEM in their futures. 
+Lonestar was an 8-hour all-female/nonbinary hackathon on the 16th of September! As a sister-event to Horizon, Alpine, and Spark, Lonestar was held by Hack Club and the Girl Scouts of Southwest Texas with 30 participants and organizers, inspiring middle and high-schoolers to write their first lines of code ✨ During the hackathoon we held two workshops: Intro to Web-Dev and Hardware w/Tinkercad. At the end of the day, we celebrated our day of learning with an awards ceremony, where every scout left with a prize: the confidence to pursue STEM in their futures. 
 
 Interested in hosting a hackathon? Read [how Hack Club can support you](https://hackathons.hackclub.com/) and check out [An Expandable Guide to Hackathon Organizing](https://expandables.hackclub.dev/organizing.html)!
 
 ## 🎯 The Weekend
-A rundown we accomplished throughout the weekend:
+A rundown oh what we accomplished throughout the weekend:
 
 | Day | Activity                                                                 |
 |-----|-------------------------------------------------------------------------|
@@ -19,8 +19,12 @@ A rundown we accomplished throughout the weekend:
 
 ## 🎯 The Goal
 We came into this weekend with 2 goals:
-1. To support Hack Clubbers to become more technical, to become better leaders, and to deepen friendships through collaborative coding projects.
+1. To support Hack Clubbers to become more technical, to become better leaders, and to deepen friendships through organising the event.
 2. To grow Hack Club’s community so it is inclusive and accessible to teenagers of all backgrounds. We made active outreach to under-represented, less-advantaged young people, including girls and girls of color, who don’t have computer science programs or professional mentors in their community.
+
+## 🏹 How we Reached The Goal
+1. Aileen, after being a part of the organising team of Horizon, decided she wanted to bring Days of Services to her community in Texas! She collaborated along with fellow hack clubbers from Texas - Zoya and Sarthak. Together they used Hack Club's resources to get funding, swag and workshop material for the event!
+2. Hack Club collaborated with the Girl Scouts of Southwest Texas to bring in 20 girl scouts who have never coded before! These Girl Scouts learnt the basics of web development and wiring from Zoya and Aileen who acted as both a role model and a mentor!
 
 ## 💸 The Budget
 [Open-sourced Transactions](https://hcb.hackclub.com/lonestar)
